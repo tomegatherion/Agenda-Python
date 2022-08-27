@@ -6,12 +6,20 @@ O projeto consiste em uma agenda simples, em que os dados são sempre armazenado
 Menu principal:
 
 1 - adicionar contato
+
 2 - alterar contato
+
 3 - excluir contato
+
 4 - buscar contato
+
 5 - listar contatos
+
 6 - Imprimir Agenda
+
 7 - sair
+
+
 
 As opções 1, 2 e 3 realizam respectivamente a função de adicionar, alterar ou excluir contato.
 A opção 4 realiza a busca bo bando de dados.
